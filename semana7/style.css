@@ -1,0 +1,201 @@
+.navbar-nav>li>a {
+    padding-top: 70px;
+    padding-bottom: 5px;
+    font-size: 15px;
+    font-family: 'Muli', sans-serif;
+}
+.navbar {
+    position: relative;
+    min-height: 100px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+}
+.container > li + li {
+    margin-left: 20px;
+}
+
+.navbar-default .navbar-brand {
+    color: #8A0000;
+}
+
+.navbar .nav > li > a:hover, .navbar .nav > li >
+ a;hover {
+ 	background-color: none;
+ }
+
+.jumbotron {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 0px;
+    color: inherit;
+    background-color: transparent !important;
+    font-size: 30px;
+    font-family: 'Muli', sans-serif;
+    background: url(_imgs/background.jpg) no-repeat center center fixed; 
+    background-size: 1300px 500px;
+    background-repeat: no-repeat;
+    margin-bottom: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    background-attachment: scroll / fixed;
+}
+
+a:focus, a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+.jumbotron .h1, .jumbotron h1 {
+    color: #FFFFFF;
+}
+.navbar-default .navbar-nav>li>a {
+    color: #8A0000;
+}
+.jumbotron .container {
+	text-align: center;
+    color: #FFFFFF;
+    font-family: 'Muli', sans-serif;
+    font-size: 30px;
+} 
+
+li {
+    display: inline-block;
+    text-align: center;
+
+}
+
+.h1, h1 {
+    font-size: 36px;
+    margin-top: 100px;
+}
+
+.btn-primary {
+    color: #8A0000;
+    background-color: #FFFFFF;
+    border-color: #FFFFFF;
+}
+.btn {
+    display: inline-block;
+    padding: 8px 14px;
+    margin-bottom: 0;
+    margin-left: 50px;
+    font-size: 22px;
+    font-family: 'Muli', sans-serif;
+    font-weight: 800;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 0px;
+}
+
+.btn-primary:hover {
+    background-color: red;
+    border-color: red;
+}
+
+a {
+    color: #FFFFFF;
+    text-decoration: none;
+    }
+
+    body {
+    font-family: 'Muli', sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #8A0000;
+    background-color: #FFFFFF;
+}
+
+.img-thumbnail {
+    max-width: 100%;
+    height: auto;
+    padding: 4px;
+    line-height: 1.42857143;
+    background-color: #fff;
+    border: 0px solid #ddd;
+    border-radius: 4px;
+    text-align: center;
+}
+.second { 
+text-align: center;
+}
+
+.social {
+    margin-top: 150px;
+    text-align: center;
+}
+
+.history {
+    text-align: center;
+    color: #5F5F5F;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top: 50px;
+
+}
+h5{
+    color: #8A0000;
+}
+h4{
+    color: #8A0000;
+    text-align: center;
+}
+h6{
+   color:#5F5F5F;
+    text-align: left; 
+}
+h1{
+    text-align: left;
+}
+.products{
+    text-align: center;
+    margin-right: 100px;
+    margin-left: 100px;
+    color:#5F5F5F;
+    margin-top: 50px;
+}
+.uses{
+    text-align: left;
+    margin-top: 50px;
+}
+.recipes{
+    text-align: left;
+    margin-top: 50px;
+
+}
+.medical{
+    text-align: left;
+    margin-top: 50px;
+
+}
+.contact{
+    border-top-width: 50px;
+    margin-top: 50px;
+}
+
+p {
+text-align: center;
+    line-height: 21px;
+    margin: 0 0 20px;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+
+
