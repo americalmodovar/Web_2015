@@ -1,0 +1,39 @@
+
+div {
+	    position: absolute;
+	    width: 500px;
+	    height: 500px;
+	    font-size: 50px;
+	    text-align: center;
+	    color: black;
+	    background: white;
+	    padding-top: 100px;
+	    top: 0;
+	    left: 0;
+	    display: none;
+
+}
+span {
+	    display: none;
+}
+a{
+	color: #81712D;
+}
+
+img {
+	text-align: center;
+}
+p {
+	    position: relative;
+	    font-size: 50px;
+	    text-align: left;
+	    font-family: 'Bree Serif', serif;
+	    color: #F5AF1C;
+	  
+}
+
+body{
+	height: 500px;
+	width: 700px;
+	background-color: white;
+}

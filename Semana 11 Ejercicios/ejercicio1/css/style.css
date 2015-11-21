@@ -1,0 +1,22 @@
+
+div {
+	position: absolute;
+	left: 50px;
+	width: 200px;
+	height: 200px;
+	margin: 5px;
+	}
+
+.barco{
+	margin-top: none;
+	margin-left: none;
+
+}
+
+#right{
+	float: right;
+}
+
+/*body{
+	 
+}*/

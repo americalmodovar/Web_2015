@@ -1,0 +1,26 @@
+body{
+	background-color: #9B1D21;
+}
+
+button{
+	color: #9B1D21;
+	margin-top: 0px;
+	margin-left: 500px;
+	background-color: #9B1D21;
+}
+
+img{
+	height:300px;
+	width: 300px;
+	margin-left: 0px;
+	margin-top: 50px;
+	
+}
+
+ p{
+	font-family: 'Pacifico', cursive;
+	font-size: 60px;
+	display: none;
+	color: white; 
+	margin-left: 450px; 
+}
